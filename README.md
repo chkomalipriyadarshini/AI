@@ -52,3 +52,5 @@ Try ensemble models like Random Forest or XGBoost.
 Build a web interface using Flask or Django.
 Integrate real-time patient data using IoT or EHRs.
 
+# Project 2: IMDB Sentiment Analysis Using Deep Learning
+
